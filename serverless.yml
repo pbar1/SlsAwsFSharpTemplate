@@ -10,4 +10,4 @@ plugins:
 
 functions:
   hello:
-    handler: FsharpHandlers::AwsDotnetFsharp.Handler::hello
+    handler: SlsAwsFSharpBetter::SlsAwsFSharpBetter.Handler::hello
