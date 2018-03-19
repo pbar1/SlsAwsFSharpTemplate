@@ -1,0 +1,13 @@
+
+service: sls-aws-fsharp-better
+
+provider:
+  name: aws
+  runtime: dotnetcore2.0
+
+plugins:
+  - serverless-dotnet
+
+functions:
+  hello:
+    handler: FsharpHandlers::AwsDotnetFsharp.Handler::hello

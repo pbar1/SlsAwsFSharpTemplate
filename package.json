@@ -1,0 +1,23 @@
+{
+  "name": "sls-aws-fsharp-better",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbar1/sls-aws-fsharp-better.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbar1/sls-aws-fsharp-better/issues"
+  },
+  "homepage": "https://github.com/pbar1/sls-aws-fsharp-better#readme",
+  "dependencies": {
+    "serverless": "^1.26.1",
+    "serverless-dotnet": "^1.2.0"
+  }
+}
