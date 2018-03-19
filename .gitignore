@@ -271,3 +271,6 @@ integrationtests/scenarios/*/before/**/obj
 
 # artifacts
 /bin_netcore/
+
+# Serverless Framework
+.serverless/
